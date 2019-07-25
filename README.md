@@ -4,20 +4,21 @@ Aqueduct 3.0 high-quality maps for print and offline use.
 
 [Script](https://colab.research.google.com/drive/1HwpIM2NebiEX6RkcWAAFjLrd6evACZ94)
 
-Output on GCS:  
-`gs://aqueduct30_v01/Y2019M07D24_RH_Aqueduct30_Plotting_V01`
+Download the results [here]()
 
 List of maps:  
 
 1. Baseline water stress map, *global* 
+1. Baseline water stress map without borders, *global* 
 1. Baseline water stress map, *India*
 1. Baseline water stress map, *Mexico* 
 1. Baseline water stress map, *Europe + MENA* 
 1. Groundwater table decline, *India*
 
-For
-Change in water stress to 2040 map, business as usual *global*, Use Figure 1-5 from WRR [report](https://wrr-food.wri.org/sites/default/files/2019-07/WRR_Food_Full_Report_0.pdf)
+## Instructions for design team
+Please import the .pdf files (not .jpg) in illustrator. 
 
+Please use the following color codes for the legends. 
 
 
 #### Baseline water stress
