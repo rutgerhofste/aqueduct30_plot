@@ -4,7 +4,7 @@ Aqueduct 3.0 high-quality maps for print and offline use.
 
 [Script](https://colab.research.google.com/drive/1HwpIM2NebiEX6RkcWAAFjLrd6evACZ94)
 
-For the WRI design team: Download the data [here]()  
+For the WRI design team: Download the data [here](http://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M07D24_RH_Aqueduct30_Plotting_V01.zip)  
 
 
 List of maps:  
