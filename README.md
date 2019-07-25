@@ -31,6 +31,8 @@ Change in water stress to 2040 map, business as usual *global*, Use Figure 1-5 f
 |Arid and low water use | #808080 |
 |NoData |#4E4E4E |
 
+![bws](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/bws.JPG)
+
 
 
 ### Groundwater table decline
@@ -45,5 +47,6 @@ Change in water stress to 2040 map, business as usual *global*, Use Figure 1-5 f
 |Insignificant Trend| #808080 |
 |NoData |#4E4E4E |
 
+![gtd](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/gtd.JPG)
 
 
