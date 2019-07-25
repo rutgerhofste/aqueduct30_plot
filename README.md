@@ -13,7 +13,7 @@ List of maps:
 1. Baseline water stress map, *India*
 1. Baseline water stress map, *Mexico* 
 1. Baseline water stress map, *Europe + MENA* 
-1 Groundwater table decline, *India*
+1. Groundwater table decline, *India*
 
 For
 Change in water stress to 2040 map, business as usual *global*, Use Figure 1-5 from WRR [report](https://wrr-food.wri.org/sites/default/files/2019-07/WRR_Food_Full_Report_0.pdf)
