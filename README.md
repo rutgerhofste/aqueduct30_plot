@@ -2,6 +2,12 @@
 Aqueduct 3.0 high-quality maps for print and offline use.
 
 
+[Script](https://colab.research.google.com/drive/1HwpIM2NebiEX6RkcWAAFjLrd6evACZ94)
+
+Output on GCS:
+`gs://aqueduct30_v01/Y2019M07D24_RH_Aqueduct30_Plotting_V01`
+
+
 
 #### Baseline water stress
 |label| hex |
