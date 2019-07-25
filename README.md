@@ -22,7 +22,7 @@ Please import the .pdf files (not .jpg) in illustrator.
 Please use the following color codes for the legends. 
 
 
-#### Baseline water stress
+#### Baseline water stress  (bws)
 |label| hex |
 | --- | --- | 
 |Low (<10%)|#FFFF99 |
@@ -37,7 +37,7 @@ Please use the following color codes for the legends.
 
 
 
-### Groundwater table decline
+### Groundwater table decline (gtd)
 
 |label| hex |
 | --- | --- | 
