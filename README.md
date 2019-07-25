@@ -16,7 +16,7 @@ Aqueduct 3.0 high-quality maps for print and offline use.
 
 
 
-##Groundwater table decline
+### Groundwater table decline
 
 |label| hex |
 | --- | --- | 
