@@ -16,7 +16,7 @@ List of maps:
 1. Groundwater table decline, *India*
 
 ## Plot monthly data
-[Plot monthly](https://github.com/rutgerhofste/aqueduct30_plot/blob/master/scripts/Y2019M07D29_RH_Aqueduct_Plot_Monthly_V01.ipynb)
+[Plot monthly](https://github.com/rutgerhofste/aqueduct30_plot/blob/master/scripts/Y2019M07D29_RH_Aqueduct_Plot_Monthly_V01.ipynb)  
 [Open in Colab](https://colab.research.google.com/github/rutgerhofste/aqueduct30_plot/blob/master/scripts/Y2019M07D29_RH_Aqueduct_Plot_Monthly_V01.ipynb)
 
 
