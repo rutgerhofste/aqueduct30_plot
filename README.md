@@ -1,15 +1,13 @@
 # Aqueduct30 Plot
 Aqueduct 3.0 high-quality maps for print and offline use.
 
-
+## Plot annual data
 [Plot annual](https://github.com/rutgerhofste/aqueduct30_plot/blob/master/scripts/Y2019M07D24_RH_Aqueduct_Plot_V01.ipynb)  
 [Open in Colab](https://colab.research.google.com/github/rutgerhofste/aqueduct30_plot/blob/master/Y2019M07D24_RH_Aqueduct_Plot_V01.ipynb)
 
 For the WRI design team: Download the data [here](http://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M07D24_RH_Aqueduct30_Plotting_V01.zip)
 
-
 List of maps:  
-
 1. Baseline water stress map, *global* 
 1. Baseline water stress map without borders, *global* 
 1. Baseline water stress map, *India*
@@ -17,8 +15,9 @@ List of maps:
 1. Baseline water stress map, *Europe + MENA* 
 1. Groundwater table decline, *India*
 
+## Plot monthly data
 [Plot monthly](https://github.com/rutgerhofste/aqueduct30_plot/blob/master/scripts/Y2019M07D29_RH_Aqueduct_Plot_Monthly_V01.ipynb)
-
+[Open in Colab](https://colab.research.google.com/github/rutgerhofste/aqueduct30_plot/blob/master/scripts/Y2019M07D29_RH_Aqueduct_Plot_Monthly_V01.ipynb)
 
 
 
